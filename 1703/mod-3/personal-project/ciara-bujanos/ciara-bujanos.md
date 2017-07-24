@@ -60,5 +60,8 @@
 I'm on the fence about that so I think if we you have everything with the API sorted out by friday we can still give this thing a run. If not you might have to do a lot of this stuff on the front end 
 
 - Have API data coming through so that you can work with it. Even if it's just a single get requeste 
+ * Got API and am getting data back, am working on getting the directions back through another API call though. 
 - have Tests set up so that you don't have to do this last minute. 
+  * Will do by EOD 
 - It would be cool to have a random cooking quote appear on the page as the application is loading. 
+  * Can start on it today, i just want to get the directions done first. 
